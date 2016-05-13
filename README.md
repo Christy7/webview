@@ -2,7 +2,7 @@ This is a template project for Android Studio that allows you to create an andro
 
 And additionally this is an Hybrid App which means that it combines elements of both native and Web applications.
 
-I have changed the URL for the app as http://www.goal.com
+I have changed the URL for the app as http://www.coursera.com
 
 The Goal.com is one of the worlds best football site.
 
