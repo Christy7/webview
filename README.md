@@ -4,4 +4,5 @@ And additionally this is an Hybrid App which means that it combines elements of 
 
 I have changed the URL for the app as http://www.goal.com
 
+The Goal.com is one of the worlds best football site.
 
